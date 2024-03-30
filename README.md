@@ -1,4 +1,4 @@
-# Gherass
+# Gherass | غِراس
 
 ### Description: 
 The website **Gherass**  is dedicated to selling plants, providing information about them, offering care tips, and supplying seeds. Its primary objective is to serve as a comprehensive platform for plant enthusiasts, allowing them to purchase a variety of plants, both indoor and outdoor, while also providing extensive information on how to care for them to ensure healthy growth. 
